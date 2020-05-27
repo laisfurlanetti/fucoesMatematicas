@@ -17,24 +17,24 @@ namespace funcoesMatematicas
             Console.Write("Digite outro valor: ");
             n2 = Convert.ToInt32(Console.ReadLine());
 
-            soma(n1, n2);
-            divisao(n1, n2);
-            multiplicacao(n1, n2);
+            Soma(n1, n2);
+            Divisao(n1, n2);
+            Multiplicacao(n1, n2);
 
             Console.Read();
             
         }
-        public static void soma(int n1, int n2)
+        public static void Soma(int n1, int n2)
         {
             int resultado = n1 + n2;
             Console.WriteLine(n1 + " + " + n2 + " = " + resultado);
         }
-        public static void divisao(int n1, int n2)
+        public static void Divisao(int n1, int n2)
         {
             int resultado = n1 / n2;
             Console.WriteLine(n1 + " / " + n2 + " = " + resultado);
         }
-        public static void multiplicacao (int n1, int n2)
+        public static void Multiplicacao (int n1, int n2)
         {
             int resultado = n1 * n2;
             Console.WriteLine(n1 + " x " + n2 + " = " + resultado);
