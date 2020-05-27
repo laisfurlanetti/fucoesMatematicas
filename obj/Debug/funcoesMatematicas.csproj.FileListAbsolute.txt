@@ -1,0 +1,7 @@
+C:\Users\Avatar\source\repos\funcoesMatematicas\bin\Debug\funcoesMatematicas.exe.config
+C:\Users\Avatar\source\repos\funcoesMatematicas\bin\Debug\funcoesMatematicas.exe
+C:\Users\Avatar\source\repos\funcoesMatematicas\bin\Debug\funcoesMatematicas.pdb
+C:\Users\Avatar\source\repos\funcoesMatematicas\obj\Debug\funcoesMatematicas.csprojAssemblyReference.cache
+C:\Users\Avatar\source\repos\funcoesMatematicas\obj\Debug\funcoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\source\repos\funcoesMatematicas\obj\Debug\funcoesMatematicas.exe
+C:\Users\Avatar\source\repos\funcoesMatematicas\obj\Debug\funcoesMatematicas.pdb
